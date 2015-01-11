@@ -3,7 +3,7 @@ jsonp_handler({
 "build": 1,
 "title":"a2048",
 "minruntime": 4,
-"baseurl":"http://samsuanchen@rawgit.com/samsuanchen/a2048",
+"baseurl":"http://samsuanchen@rawgit.com/samsuanchen/master/a2048",
 "description":"",
 "files":
   ["index.html","index.css",
