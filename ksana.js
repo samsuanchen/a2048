@@ -6,8 +6,10 @@ jsonp_handler({
 "baseurl":"http://samsuanchen@rawgit.com/samsuanchen/master/a2048",
 "description":"",
 "files":
-  ["index.html","index.css",
-  "bootstrap.min.css","bootstrap.min.js","bundle.js","jquery.js",
-  "react-with-addons.js","d3.js","fabric.js","jefvm.v3.js",
-  "jefvm.v3_ext.js","jefvm.v3_tst.js","sample.kdb","ksana.js"]
+  ["index.html","bootstrap.min.css","index.css",
+  "jquery.js","bootstrap.min.js",
+  "bundle.js","react-with-addons.js",
+//"d3.js","fabric.js",
+//"jefvm.v3.js","jefvm.v3_ext.js","jefvm.v3_tst.js",
+  "ksana.js"]
 })
