@@ -13,8 +13,6 @@ jsonp_handler({
   "bootstrap.min.js",
   "bundle.js",
   "react-with-addons.js",
-  "d3.js",
-  "fabric.js",
   "jefvm.v3.js",
   "jefvm.v3_ext.js",
   "jefvm.v3_tst.js",
